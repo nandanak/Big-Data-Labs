@@ -1,8 +1,8 @@
 # Big Data Analytics
 Welcome to the repository of the BIG DATA ANALYTICS courses!
 
-[732A54: Big Data Analytics](https://www.ida.liu.se/~732A54/)
-[TDDE31: Big Data Analytics](https://www.ida.liu.se/~TDDE31/)
+[732A54](https://www.ida.liu.se/~732A54/)
+[TDDE31](https://www.ida.liu.se/~TDDE31/)
 
 This course has 4 lab assignments:
 * [Assignment RDB: Relational Databases (ONLY 732A54)](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab1-sql)
@@ -12,7 +12,7 @@ This course has 4 lab assignments:
 
 **Read this file till the end! Assignments that are handed in incorrectly will be automatically rejected.**
 
-Assignment instructions could be found on could be found on the [Labs page](https://www.ida.liu.se/~732A54/lab/index.en.shtml).
+Assignment instructions could be found on the [Labs page](https://www.ida.liu.se/~732A54/lab/index.en.shtml).
 Additional submission and report requirements are located in the respected folders.
 
 Submit solutions and reports into **your gitlab repository, which must be a *private* fork of the repository [olaha93/bigdata](https://gitlab.liu.se/olaha93/bigdata/)**. A fork is essentially a copy of a repository that is cloned into your own account.
@@ -91,6 +91,6 @@ If there is no such file in the directory, you may upload files from your comput
 > <img src="/pictures/upload.png"  width="500"> 
 ---
 ### 6. Submit by sending an email with a link to the repository
-To submit a solution to your lab assignment, *email a link of your repository* to your lab assistant (BDA3 must be sent to jose.m.pena@liu.se); the subject for that email *must* adhere to the following pattern: **CourseCode_Year_labCode_userName1_userName2** 
+To submit a solution to your lab assignment, *email a link of your repository* to your lab assistant (BDA3 must be sent to jose.m.pena@liu.se	); the subject for that email *must* adhere to the following pattern: **CourseCode_Year_labCode_userName1_userName2** 
 (e.g., TDDE31_2020_BDA3_hrsdv94_dgjjt92).
 

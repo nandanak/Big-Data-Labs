@@ -5,4 +5,4 @@
 * The questions must be answered in chronological order. 
 * The file must be executable using a MySQL command `SOURCE lab1.sql;` command without any errors.
 * All created tables and views must be deleted in the beginning of the file.
-* Include only a solution for the assignment in this folder – an *executable* *lab1.sql* file. 
+* Include an *executable* *lab1.sql* file. 
