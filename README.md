@@ -1,21 +1,21 @@
-# Computer Networks
-Welcome to the repository of the Computer Networks courses!
+# Big Data Analytics
+Welcome to the repository of the BIG DATA ANALYTICS courses!
 
-[TDDE35: Large-Scale Distributed Systems and Networks](https://www.ida.liu.se/~TDDE35/labs/)
+[732A54: Big Data Analytics](https://www.ida.liu.se/~732A54/)
+[TDDE31: Big Data Analytics](https://www.ida.liu.se/~TDDE31/)
 
 This course has 4 lab assignments:
-* [Assignment 1: Wireshark lab. Getting started + HTTP](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab1-wireshark)
-* [Assignment 2: Net Ninny. A Web Proxy Based Service](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab2-proxy)
-* [Assignment 3: Transmission Control Protocol (TCP)](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab3-tcp)
-* [Assignment 4: Distance Vector Routing](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab4-routing)
+* [Assignment RDB: Relational Databases (ONLY 732A54)](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab1-sql)
+* [Assignment BDA1: Spark](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab2-spark)
+* [Assignment BDA2: Spark SQL](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab3-sparksql)
+* [Assignment BDA3: Machine Learning](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab4-ml)
 
 **Read this file till the end! Assignments that are handed in incorrectly will be automatically rejected.**
 
-Assignment instructions could be found on the web-page of your course code (e.g. [TDDE35](https://www.ida.liu.se/~TDDE35/labs/)).
-Additional submission and report requirements are located in the respected folders (e.g. [networks/lab1-wireshark](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab1-wireshark), [networks/lab2-proxy](https://gitlab.liu.se/nikko22/networks/-/tree/master/lab2-proxy), etc.).
+Assignment instructions could be found on could be found on the [Labs page](https://www.ida.liu.se/~732A54/lab/index.en.shtml).
+Additional submission and report requirements are located in the respected folders.
 
-
-Submit solutions and reports into **your gitlab repository, which must be a *private* fork of the repository [nikko22/networks](https://gitlab.liu.se/nikko22/networks)**. A fork is essentially a copy of a repository that is cloned into your own account.
+Submit solutions and reports into **your gitlab repository, which must be a *private* fork of the repository [olaha93/bigdata](https://gitlab.liu.se/olaha93/bigdata/)**. A fork is essentially a copy of a repository that is cloned into your own account.
 
 These instructions describe the process of i) creating such a forked repository and ii) handing in solutions via a repository.
 
@@ -25,7 +25,7 @@ These instructions describe the process of i) creating such a forked repository 
 
 ### 0. Log into gitlab.liu.se with your LiU-ID
 
-### 1. Fork the repository [nikko22/networks](https://gitlab.liu.se/nikko22/networks)
+### 1. Fork the repository [olaha93/bigdata](https://gitlab.liu.se/olaha93/bigdata/)
 
 Press the "Fork" button on the top of this page to copy this repository to your account.
 
@@ -57,9 +57,12 @@ Expand 'Permissions', set 'Project visibility' to 'Private', and then save chang
 
 > <img src="/pictures/change_permission2.png"  width="500"> 
 ---
-### 3. **Provide "Maintainer" access to your partner and your lab assistant**
+### 3. **Provide "Maintainer" access to your partner, your lab assistant and Jose M. Pena**
 
 Find the "Settings" button on the left of the page about your forked repository, and click 'Members' to add people who can access your repository.
+* Add your partner
+* Add your lab assistant 
+* Add jose.m.pena@liu.se
 
 > <img src="/pictures/add_member1.png"  width="500"> 
 ---
@@ -88,6 +91,6 @@ If there is no such file in the directory, you may upload files from your comput
 > <img src="/pictures/upload.png"  width="500"> 
 ---
 ### 6. Submit by sending an email with a link to the repository
-To submit a solution to your lab assignment, *email a link of your repository* to your lab assistant; the subject for that email *must* adhere to the following pattern: **CourseCode_Year_labNumber_userName1_userName2** 
-(e.g., TDDE35_2020_lab4_hrsdv94_dgjjt92).
+To submit a solution to your lab assignment, *email a link of your repository* to your lab assistant (BDA3 must be sent to jose.m.pena@liu.se); the subject for that email *must* adhere to the following pattern: **CourseCode_Year_labCode_userName1_userName2** 
+(e.g., TDDE31_2020_BDA3_hrsdv94_dgjjt92).
 
