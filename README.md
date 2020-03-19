@@ -1,23 +1,19 @@
 # Big Data Analytics
-Welcome to the repository of the BIG DATA ANALYTICS courses!
+Welcome to the repository of the BIG DATA ANALYTICS courses ([732A54](https://www.ida.liu.se/~732A54/) and [TDDE31](https://www.ida.liu.se/~TDDE31/)) !
 
-[732A54](https://www.ida.liu.se/~732A54/)
-[TDDE31](https://www.ida.liu.se/~TDDE31/)
-
-This course has 4 lab assignments:
-* [Assignment RDB: Relational Databases (ONLY 732A54)](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab1-sql)
+In 2020, this course has 3 lab assignments:
 * [Assignment BDA1: Spark](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab2-spark)
 * [Assignment BDA2: Spark SQL](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab3-sparksql)
 * [Assignment BDA3: Machine Learning](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab4-ml)
 
-**Read this file till the end! Assignments that are handed in incorrectly will be automatically rejected.**
+**Read this file till the end! Assignments that are handed in incorrectly will be rejected automatically.**
 
-Assignment instructions could be found on the [Labs page](https://www.ida.liu.se/~732A54/lab/index.en.shtml).
-Additional submission and report requirements are located in the respected folders.
+The assignment instructions can be found on the [Labs page of the course Website](https://www.ida.liu.se/~732A54/lab/index.en.shtml).
+Additional submission and report requirements are given in the respective folders of this repository.
 
-Submit solutions and reports into **your gitlab repository, which must be a *private* fork of the repository [olaha93/bigdata](https://gitlab.liu.se/olaha93/bigdata/)**. A fork is essentially a copy of a repository that is cloned into your own account.
+Submit solutions and reports into **your** gitlab repository, which must be a ***private* fork** of the repository [olaha93/bigdata](https://gitlab.liu.se/olaha93/bigdata/). A fork is essentially a copy of a repository that is cloned into your own account.
 
-These instructions describe the process of i) creating such a forked repository and ii) handing in solutions via a repository.
+The following instructions describe the process of i) creating such a forked repository and ii) handing in solutions via a repository.
 
 
 
@@ -57,7 +53,7 @@ Expand 'Permissions', set 'Project visibility' to 'Private', and then save chang
 
 > <img src="/pictures/change_permission2.png"  width="500"> 
 ---
-### 3. **Provide "Maintainer" access to your partner, your lab assistant and Jose M. Pena**
+### 3. **Provide "Maintainer" access to your lab partner, to your lab assistant, and to Jose M. Pena**
 
 Find the "Settings" button on the left of the page about your forked repository, and click 'Members' to add people who can access your repository.
 * Add your partner
@@ -73,11 +69,11 @@ Follow the steps as shown in the screenshot below to provide **"Maintainer"** ac
 
 ### 4. Work on the lab assignments
 
-You may want to download the content of your repository to the computer at which you are working on the lab assignments. If you are familiar with git, this may be done by cloning the repository on the computer. Another, perhaps easier alternative is to simply use the download option on the page about your repository as illustrated in the following screenshot; this option allows you to download a package that you have to unpack.
+You may want to download the content of your repository to the computer at which you are working on the lab assignments. If you are familiar with git, this may be done by cloning the repository on the computer. Another, perhaps easier alternative is to simply use the download option on the Web page of your repository as illustrated in the following screenshot; this option allows you to download a package that you have to unpack.
 
 > <img src="/pictures/download.png"  width="500"> 
 ---
-After you have the content of your repository on your computer, you can start working on the lab assignments. Notice that the repository contains four folders, one for each of the four lab assignments. **Check these folders for more detailed instructions about what needs to be handed in for the corresponding lab assignment.**
+After you have the content of your repository on your computer, you can start working on the lab assignments. Notice that the repository contains a separate folder for each of the lab assignments. **Check these folders for more detailed instructions about what needs to be handed in for the corresponding lab assignment.**
 
 ### 5. Place your code and a report into the repository
 After completing an assignment, edit/upload the files to your GitLab repository.
