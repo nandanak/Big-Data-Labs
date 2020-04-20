@@ -2,9 +2,9 @@
 Welcome to the repository of the BIG DATA ANALYTICS courses ([732A54](https://www.ida.liu.se/~732A54/) and [TDDE31](https://www.ida.liu.se/~TDDE31/)) !
 
 In 2020, this course has 3 lab assignments:
-* [Assignment BDA1: Spark](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab2-spark)
-* [Assignment BDA2: Spark SQL](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab3-sparksql)
-* [Assignment BDA3: Machine Learning](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab4-ml)
+* [Assignment BDA1: Spark](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab1-spark)
+* [Assignment BDA2: Spark SQL](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab2-sparksql)
+* [Assignment BDA3: Machine Learning](https://gitlab.liu.se/olaha93/bigdata/-/tree/master/lab3-ml)
 
 **Read this file till the end! Assignments that are handed in incorrectly will be rejected automatically.**
 
