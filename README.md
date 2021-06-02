@@ -49,7 +49,7 @@ Find the "Settings" button on the left of the page about your forked repository,
 
 > <img src="/pictures/change_permission1.png"  width="500"> 
 ---
-Expand 'Permissions', set 'Project visibility' to 'Private', and then save changes.
+Expand 'Permissions', set 'Project visibility' to 'Private', and then save changes. Notice, changing the project visibility to 'Internal' is **not enough**.
 
 > <img src="/pictures/change_permission2.png"  width="500"> 
 ---
