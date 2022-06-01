@@ -1,0 +1,4 @@
+Row(year=u'2013', month=u'05', value=83128)
+Row(year=u'2013', month=u'09', value=83042)
+Row(year=u'1996', month=u'06', value=81580)
+Row(year=u'2001', month=u'09', value=81025)

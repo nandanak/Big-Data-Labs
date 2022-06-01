@@ -1,0 +1,5 @@
+Row(year=u'1972', station=u'97260', value=31.2)
+Row(year=u'1972', station=u'98200', value=31.2)
+Row(year=u'1972', station=u'137100', value=31.2)
+Row(year=u'1964', station=u'76430', value=31.2)
+Row(year=u'1971', station=u'65130', value=31.2)

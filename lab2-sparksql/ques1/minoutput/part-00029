@@ -1,0 +1,6 @@
+Row(year=u'1950', station=u'155910', value=-42.0)
+Row(year=u'1962', station=u'181900', value=-42.0)
+Row(year=u'1962', station=u'181900', value=-42.0)
+Row(year=u'1951', station=u'155910', value=-42.0)
+Row(year=u'2011', station=u'179960', value=-42.0)
+Row(year=u'1968', station=u'179950', value=-42.0)

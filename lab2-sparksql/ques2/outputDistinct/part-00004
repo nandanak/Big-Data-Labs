@@ -1,0 +1,7 @@
+Row(year=u'1974', month=u'06', count=372)
+Row(year=u'1974', month=u'08', count=372)
+Row(year=u'1970', month=u'08', count=370)
+Row(year=u'1974', month=u'05', count=370)
+Row(year=u'1971', month=u'07', count=370)
+Row(year=u'1973', month=u'07', count=370)
+Row(year=u'1974', month=u'09', count=370)

@@ -1,0 +1,7 @@
+Row(year=u'2004', month=u'07', count=319)
+Row(year=u'1987', month=u'10', count=319)
+Row(year=u'1987', month=u'07', count=319)
+Row(year=u'2011', month=u'07', count=319)
+Row(year=u'2010', month=u'05', count=319)
+Row(year=u'1983', month=u'07', count=319)
+Row(year=u'2004', month=u'06', count=319)
